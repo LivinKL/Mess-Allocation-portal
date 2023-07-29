@@ -41,6 +41,12 @@ flask run
 
 Once the app is running, open your web browser and navigate to [http://localhost:5000](http://localhost:5000) to access the app.
 
+![Screenshot from 2023-07-29 16-09-07](https://github.com/LivinKL/Mess-Allocation-portal/assets/108116188/af92a8d4-faf0-45ec-b4f6-a1513381656f)
+
+![Screenshot from 2023-07-29 16-09-40](https://github.com/LivinKL/Mess-Allocation-portal/assets/108116188/7f842048-c5ed-42a1-bb73-191209ab232c)
+
+![Screenshot from 2023-07-29 16-10-39](https://github.com/LivinKL/Mess-Allocation-portal/assets/108116188/9cef21c9-ad55-48e8-96c9-7168ce4be522)
+
 ### Login Credentials:
 
 To access certain features of the app, you need to log in with the following credentials:
